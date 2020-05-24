@@ -1,0 +1,3 @@
+IO.o: Source/IO.c Source/IO.h Source/Data\ Types.h
+kernel.o: Source/kernel.c Source/IO.h Source/Data\ Types.h Source/Page.h
+paging.o: Source/paging.c Source/Page.h Source/Data\ Types.h

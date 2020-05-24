@@ -1,0 +1,11 @@
+#ignore image files
+*.img
+
+#ignore bin files
+*.bin
+
+#ignore object files
+*.o
+
+#ignore note
+Doc/*.txt

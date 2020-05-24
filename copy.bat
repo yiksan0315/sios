@@ -1,0 +1,1 @@
+copy Sios.img+Hdd.img /b Sios.img
